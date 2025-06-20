@@ -59,6 +59,18 @@ importers:
         specifier: ^5.0.0
         version: 5.8.3
 
+  packages/common-types:
+    devDependencies:
+      '@types/jest':
+        specifier: ^29.0.0
+        version: 29.5.14
+      jest:
+        specifier: ^29.0.0
+        version: 29.7.0(@types/node@24.0.3)(ts-node@10.9.2(@types/node@24.0.3)(typescript@5.8.3))
+      typescript:
+        specifier: ^5.0.0
+        version: 5.8.3
+
   packages/shared-utils:
     devDependencies:
       '@types/jest':
