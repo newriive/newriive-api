@@ -29,5 +29,14 @@
     "ts-node": "10.9.2",
     "typescript": "^5.0.0"
   },
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "lambdas/*"
+  ],
+  "dependencies": {
+    "@newriive/common-db": "workspace:*",
+    "@newriive/shared-utils": "workspace:*",
+    "@newriive/common-types": "workspace:*"
+  }
 }

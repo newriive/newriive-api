@@ -1,0 +1,16 @@
+[
+  {
+    "id": "g1",
+    "userId": "u1",
+    "name": "Test Group 1",
+    "description": "A test group",
+    "createdAt": "2025-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "g2",
+    "userId": "u2",
+    "name": "Test Group 2",
+    "description": "Another test group",
+    "createdAt": "2025-07-14T00:00:00.000Z"
+  }
+]

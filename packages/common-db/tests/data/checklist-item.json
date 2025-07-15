@@ -1,0 +1,18 @@
+[
+  {
+    "id": "i1",
+    "userId": "u1",
+    "groupId": "g1",
+    "title": "Test Item 1",
+    "completed": false,
+    "createdAt": "2025-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "i2",
+    "userId": "u2",
+    "groupId": "g1",
+    "title": "Test Item 2",
+    "completed": true,
+    "createdAt": "2025-07-14T00:00:00.000Z"
+  }
+]
